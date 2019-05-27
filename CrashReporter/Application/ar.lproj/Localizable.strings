@@ -1,9 +1,9 @@
-APPS = "Apps";
-APP_EXTENSIONS = "App Extensions";
+APPS = "التطبيقات";
+APP_EXTENSIONS = "ملحقات التطبيق";
 BACK = "رجوع";
 CANCEL = "إلغاء";
 CONTINUE = "استمرار";
-COLLABORATE_MESSAGE = "برنامج CrashReporter هو مفتوح المصدر.\n\n المساعدة في تحسين CrashReporter من خلال تثبيت أكواد للمصدر او إضافة ترجمة أو إضافة مميزات. \n\nللمزيد من المعلومات حول CrashReporter هو متاح من خلال الضغط على الأزرار في الأسفل.";
+COLLABORATE_MESSAGE = "تطبيق CrashReporter مفتوح المصدر.\n\nساعد في تحسين CrashReporter عن طريق تقديم الشفرة، طلبات المميزات، بلاغات الأخطاء، الترجمات.\n\nتتوفر المزيد من المعلومات حول الأجزاء المختلفة من CrashReporter عبر النقر على الأزرار الموجودة أدناه.";
 COLLABORATE_TITLE = "مشاركة الفكرة";
 CONTRIBUTE_MONEY = "Contribute";
 CONTRIBUTE_MONEY_MESSAGE = "وضعت الكثير من وقتي  لبرنامج CrashReporter ولم أجعله مدفوع \n\n قم بمساعدتي في تغذية وبقاء هذا التطبيق وإرسال الأفكار إلينا.";
